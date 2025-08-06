@@ -1,6 +1,6 @@
 # 🎨 ispartaboya.com — %100 Benim Tarafımdan Geliştirilen WordPress Projesi
 
-Bu proje, Haziran 2024’te **KMA Yazılım** bünyesinde, **Aslı Korkmaz** tarafından **tasarımı, kurulumu ve geliştirimi tamamen bireysel olarak** hazırlanmıştır.  
+Bu proje, Haziran 2024’te **KMA Yazılım** bünyesinde, benim tarafından **tasarımı, kurulumu ve geliştirimi tamamen bireysel olarak** hazırlanmıştır.  
 WordPress altyapısı ve Elementor sayfa oluşturucusu kullanılarak, kurumsal bir boya firması için modern, mobil uyumlu ve kullanıcı dostu bir web sitesi oluşturulmuştur.
 
 ---
